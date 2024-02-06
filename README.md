@@ -1,1 +1,1 @@
-Edited the user_interface.cpp file to chnage the layour of the LCD display.
+Edited the user_interface.cpp file to change the layout of the LCD display.
